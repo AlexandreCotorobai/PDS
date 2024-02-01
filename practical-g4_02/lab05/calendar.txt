@@ -1,0 +1,1 @@
+Com a existência de dois protected construtores, e vários métodos static getInstance que aceitam argumentos diferentes, podemos assumir que a classe java.util.Calendar é um exemplo de uma Static Factory Method.

@@ -1,0 +1,37 @@
+Palavras detetadas: MOUNTAIN TWENTY BEARS LIONS SPIT LIES 
+
+Original Grid
+NOGBQNRFCB
+ATFGOJUDBK
+RINSPITNCI
+PDIKLIESCL
+PLAIWOUBPK
+JBTTWENTYS
+IENQXXXYWP
+XAUJIJMSQB
+GROCEEZQYB
+OSMMLIONSJ
+
+..........
+..........
+..NSPIT...
+..I.LIES..
+..A.......
+.BTTWENTY.
+.EN.......
+.AU.......
+.RO.......
+.SM.LIONS.
+
+mountain          8    10,3 Up
+
+twenty            6     6,4 Right
+
+bears             5     6,2 Down
+
+lions             5    10,5 Right
+
+spit              4     3,4 Right
+
+lies              4     4,5 Right
+

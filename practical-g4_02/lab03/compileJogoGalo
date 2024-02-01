@@ -1,0 +1,10 @@
+#!/bin/sh
+## NOTE THIS IS ONLY FOR LINUX
+
+rm Game.class 2> /dev/null
+rm JGalo.class 2> /dev/null
+rm JGaloInterface.class 2> /dev/null
+
+javac Game.java
+javac JGalo.java
+javac JGaloInterface.java

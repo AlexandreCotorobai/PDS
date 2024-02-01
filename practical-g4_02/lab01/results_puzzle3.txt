@@ -1,0 +1,165 @@
+Palavras detetadas: ADVERTISEMENT ADVISE ANCIENT AWARE AWFUL BANG BIRTH CHANNEL CHEER CLAP CROOK CURTAIN DIRT ELEGANT FAITHFUL FOLLOW GREY GROUND HATEFUL INCANDESCENT LAMENTABLE LIE MATERIALISTIC MOON NAIL OVEN POINT PUSHY QUILL QUILT RELEASE SPITEFUL SUBSTANCE SYSTEM THOUGHTFUL TOP TRACE TREES WHISTLE WOOZY 
+
+Original Grid
+LRZEPWYLGJDXCIHWKXRSUBSTANCETIWLCPNWGAKA
+TULIHIEZLSRIFBESCKESMYYUIJBNNUMIWTQZEGSO
+FRFHREWVQITOFGWQCCLLDEUBTGDKEYANUHKNUPCM
+WZIHKRFGTSUHPLAJESEDCGSIWFSXMTWCDYJTRLNH
+QXOXTOKXIDXQVPXZWIAPOZBQFXTWERLATLIUQXFM
+JVURLILLBQKGKWIIDASUIJQCFUUASJFNTKOIZJAE
+IIRLPVAWJOZRFMIPNMESGSVPHDTXIQCDWRYLTGDQ
+NJORGISFACMXDGZTUZQHFOZVMXGWTXBEXUAARFLT
+CWXYROTNUZEDPSZLOPZYHPILAGRTRUXSMRWCEQGH
+BQTEXBVCRKNNTXUPRICLIOUATLGHEPRCLFWBENIX
+BDTPBQJBYSRFWLOZGPTTLYRNKZHAVRJESTBHSKPG
+UAVOIVIMCDLRMIABFRWNFHFRZADKDNPNWLFUVFYE
+MFUCTCLSOHNNNUJMQKAEOSXPYLFXAWKTGRPBCMJZ
+RRQEVILZYWETHRSAEJNIPEULOFREWAKBYQTKQAOT
+XIWYAEYOHPZEETOGPNCCADWDGESBZEBHJPBYNQRG
+EGHNNBAEQOBPRAQKCJTNROJFLNDZQKXPUQHVYIAE
+VHXNXJUDWBRUXCEDTIGAQTQVXULYAEKUICKUDWRL
+MIARYMRCCIWMNIATRUCYBSPITEFULSDBPDKBSJYB
+VHXKVTUGYPZCLBCLGCAJWLROZQZYBIGQBHEESUFD
+CANMNDDANMUOYUSCIYIOYJEFHCVNZVLXPIDNKCYO
+IFXQBSSCVONRJOFRHMXHZHJMARBIBDADNWAAIJNO
+YNOVBQETHVOBLQLTJHJMAYYLMQFAHATNHBMWBAJH
+IWOBGJNNIZVMIGDWHEZMAPVFXTSVVYQIXSGQIBOD
+EBCKGPGRMHNWQHFUIGONODAHROGUNXSHGFRISAOE
+XOGUVHDGNTHVURUYPNUFOAWARESYSTEMHATEFULM
+DPEYLXRJZWIAUOJACZKOYFSEZZIBLZONIIAMTRZP
+IKMSEELTXKRCOSLEFPFRHRMQROREBVFJSBCWOYYG
+BUQDYLNYWUVZRCATPMXBJTNQRDNLELTBKGWAPNWI
+YKKWLVNZRZLPWFCEVRJAQSKKGQINUMIQNWRZWUYV
+NFXXZRRROTKKPJVQRKLVNPAYTOJGQFPLRNYINRZN
+CYUHKANLBQCCBTHSYXMDQJKOIEGNABWDKCWONFRA
+WLPKGITNBPBWLPPQLEGOYHBSKXLMCAIAOSNTRSCD
+DWIOKVCLAHRROXRMSCRIANUREFFELEQKOINCSQET
+POHRYYKQJQAYSOMGGDPKYVCCNKPJGIQIRFMDJLTE
+YXDTVGWZHMNMFFTORSPUKMAMUXCAFAAHCYMRDGKC
+CKWSJYXEIWBMRDFMCQUABYDBNURCESNXNFPTLVJF
+AFDQOFIWVCMWJOWAMSMNRELQQPPDPKYTFEJYEYKK
+TJRWCTAVTNEGSUSDWJFTWHSPMNRPDENPSAOOQLGA
+QDBDOJPHUOLBKBKVMYWKKHTRIBUNSAIERHMEJCMB
+CRTJAXUMPDUCWPUHBFBHELFOVSTOBEYZOOWQRYWC
+
+L......L....C.....RSUBSTANCET...........
+.U......L..I......E.........N..I........
+..F......IT.......L.........E..N........
+...H..F..SU.......E.........M..C........
+....TO..I..Q......AP........E..ATLIUQ...
+....LI.L........D.SU........S..NT.......
+...L..A.........N.ES........I..D.R..T...
+..O..I.F........U..H........T..E..A.R...
+.W..R...........O..Y........R..S...CE...
+...E...........PR...........E..C....E...
+..T..........LO.G..T........V..E....S...
+.A......C....IA....N........D..N........
+M.....L..H..N..M...E........A..T........
+.....IL...ET....E..I...................T
+....AE.....E.....N.C..................R.
+...NN.......R.....TN.................I..
+...N..........E....A.........E......D...
+..A.........NIATRUC.BSPITEFULS..........
+.H..........L........L.......I..........
+C.......N....U........E......V..........
+.........O....F..............D...W......
+..........O....T.............A..H.......
+...........M....H..............I........
+.................G............S.........
+.......G........P.U..AWARESYSTEMHATEFUL.
+......R........A...O........L.O.....T...
+.....E........L.....H......E.V......O...
+....Y........C.......T.....LE.......P...
+...........................NU...........
+.............................F..........
+.........................EGNABW.K.......
+..........................L....AO.......
+...........................E....O.......
+............................G...R.......
+.............................A..C.......
+..............................N.........
+...............................T........
+........................................
+.....................HTRIB..............
+..............................YZOOW.....
+
+advertisement    13   13,29 Up
+
+advise            6   22,30 Up
+
+ancient           7   17,20 Up
+
+aware             5   25,22 Right
+
+awful             5   32,32 UpLeft
+
+bang              4   31,30 Left
+
+birth             5   39,26 Left
+
+channel           7    20,1 UpRight
+
+cheer             5    12,9 DownRight
+
+clap              4   28,14 UpRight
+
+crook             5   35,33 Up
+
+curtain           7   18,19 Left
+
+dirt              4   17,37 UpRight
+
+elegant           7   31,26 DownRight
+
+faithful          8     8,8 UpLeft
+
+follow            6     4,7 DownLeft
+
+grey              4    25,8 DownLeft
+
+ground            6   11,17 Up
+
+hateful           7   25,33 Right
+
+incandescent     12    2,32 Down
+
+lamentable       10   11,14 DownRight
+
+lie               3   19,13 UpRight
+
+materialistic    13    13,1 UpRight
+
+moon              4   23,12 UpLeft
+
+nail              4    16,4 UpRight
+
+oven              4   26,31 DownLeft
+
+point             5   10,16 DownLeft
+
+pushy             5    5,20 Down
+
+quill             5    5,12 UpLeft
+
+quilt             5    5,37 Left
+
+release           7    1,19 Down
+
+spiteful          8   18,22 Right
+
+substance         9    1,20 Right
+
+system            6   25,27 Right
+
+thoughtful       10   28,22 UpLeft
+
+top               3   26,37 Down
+
+trace             5    6,33 DownRight
+
+trees             5    7,37 Down
+
+whistle           7   21,34 DownLeft
+
+woozy             5   40,35 Left
+

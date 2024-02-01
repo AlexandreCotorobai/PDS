@@ -1,0 +1,5 @@
+*.class
+.obsidian
+.idea
+*.iml
+

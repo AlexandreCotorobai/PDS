@@ -1,0 +1,11 @@
+# java.io.AbstractList:
+
+O método **indexOf(Object o)** é um exemplo de template method. Define a estrutura geral do algoritmo de procura dum elemento numa lista, mas delega a implementação dos detalhes específicos para as subclasses concretas.
+
+# java.io.AbstractSet:
+
+**contains(Object o)** -> Define a estrutura geral do algoritmo de verificação se um elemento está presente num conjunto, mas depende das subclasses concretas para implementar a lógica específica de verificação.
+
+# java.io.AbstractMap:
+
+**containsKey(Object key)** -> define a estrutura geral do algoritmo de verificação se uma chave está presente no mapa, mas a implementação dos detalhes específicos é delegada às subclasses concretas.

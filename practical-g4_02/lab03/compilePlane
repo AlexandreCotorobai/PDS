@@ -1,0 +1,12 @@
+#!/bin/sh
+## NOTE THIS IS ONLY FOR LINUX
+
+rm FlightsMain.class 2> /dev/null
+rm Menu.class 2> /dev/null
+rm Plane.class 2> /dev/null
+rm Reservation.class 2> /dev/null
+
+javac FlightsMain.java
+javac Menu.java
+javac Plane.java
+javac Reservation.java
