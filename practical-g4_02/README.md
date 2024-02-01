@@ -5,3 +5,5 @@
 - Carlos Costa - carlos.costa@ua.pt
 - José Moreira - jose.moreira@ua.pt
 - Rafael Direito - rafael.neves.direito@ua.pt
+
+## Grade: 19
